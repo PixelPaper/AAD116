@@ -14,7 +14,7 @@ Download the attached [Markdown zip file](http://pixelpaper.org/ixd/week01_markd
 Week 02
 -------
 
-Great to see everyone (almost) up and running on GitHub. Don't worry if you are still having problems getting your page up, we will get that sorted out next week. Tim's excellent [Hello World][11] tutorial will take you through the process and allow you to start personalising the content. We will look at changing the background next week so don’t worry of you can’t do that now.
+Great to see everyone (almost) up and running on GitHub. Don't worry if you are still having problems getting your page up, we will get that sorted out next week. Tim's excellent [Hello World](https://github.com/timpotter/hello-world-page) tutorial will take you through the process and allow you to start personalising the content. We will look at changing the background next week so don’t worry of you can’t do that now.
 
 Your first project for this module will be to get this page up and ruinning and write profile about you. Nothing huge just a few carefully crafted paragraphs introducing you and your work to the world and including links to relevent external sites (Twitter, Instagram, Flickr, etc). 
 
