@@ -50,9 +50,6 @@ Presentations will be delivered on Friday 30th October in 82D09 from 12.30 onwar
 Week 04
 -------
 
-Week 04
--------
-
 Week 05
 -------
 
