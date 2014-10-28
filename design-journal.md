@@ -59,6 +59,13 @@ Week 05
 Week 06
 -------
 
+####Sketch Tutorial Resources
+
+- [Bonemian Coding](http://bohemiancoding.com/sketch/resources/video-tutorials)
+- [Level Up Tuts](http://leveluptuts.com/tutorials/sketch-3-tutorials)
+- [Design + Code](https://designcode.io/sketch)
+- [Sletch App Sources](http://www.sketchappsources.com/tutorials-tips.html)
+
 Week 07
 -------
 
