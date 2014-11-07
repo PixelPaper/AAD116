@@ -69,6 +69,31 @@ Week 07
 Week 08
 -------
 
+####Project 03 – Design Essay
+
+For the final IxD project on AAD116 we would like to you write an essay of *no less than 2,000 words* on one of the designers listed below. 
+
+Your essay should be well planned and researched before you start writing. Take a look at a few of the designers in question to see which one you wish to cover, you could add a paragraph on each at the beginning of your essay my means of an introduction.
+
+Your final essay should be in the form of a single page website suitably illustrated with photographs and images of the designers work. You may want to consider designing your essay in the style of the designer chosen or you may wish to use your own approach.
+
+This project equates to 50% of your final mark for this module. 10% of this will cover use of good grammar and spelling and another 10% will be given over to the final design.
+
+You should write your essay with Markdown in the first instance. This will allow you to concentrate on the content and not concern your self with the coding. Once completed you can save it out to HTML and add some CSS loveliness.
+
+- Jan Tschichold
+- Paul Rand
+- Massimo Vignelli
+- Neville Brody
+- Jessica Hische
+- Paula Scher
+- Wolfgang Weingart
+- Stefan Sagmeister
+- Michael Bierut
+- Marian Bantjes
+
+Your essay should be handed on by noon on 12th December 2014. 
+
 Week 09
 -------
 
