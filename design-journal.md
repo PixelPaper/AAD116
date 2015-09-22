@@ -43,7 +43,7 @@ A list of group members will be emailed to you.
 
 Research the topic fully, books, journals and the internet, to make sure your presentation is accurate
 
-You can use Keynote or Powerpoint to make your persentation and each member of the team should talk on during the day.
+You can use Keynote or Powerpoint to make your presentation and each member of the team should talk on during the day.
 
 Presentations will be delivered on Friday 30th October in 82D09 from 12.30 onwards. You will be marked on the day of the presentation and feedback will be offered to each team.
 
